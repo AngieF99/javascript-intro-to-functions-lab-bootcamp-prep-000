@@ -20,5 +20,5 @@ return string = "I can't hear you!"
 }
 
 function sayHiToGrandma(string) {
-  
+  string =
 }
